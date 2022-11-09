@@ -54,6 +54,8 @@ Python is a powerful object-oriented language used by popular applications. In
 the upcoming lessons you'll build the foundational knowledge of OOP to be well
 on your way to developing your own!
 
+***
+
 ## Resources
 
 - [Python documentation][python docs]
